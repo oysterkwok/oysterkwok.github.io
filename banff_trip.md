@@ -105,21 +105,33 @@
 `386 Smith St, Hinton, AB T7V 2A1`
 
 ### Day 3: Mon, Jul 23
+#### Valemount Mountain Retreat
+`12145 Blackman Road, Valemount, BC V0E 2Z0`
 ----
 
 ### Day 4: Tue, Jul 24
+#### Prestige Inn Golden
+`1049 Trans Canada Highway North, Golden, BC V0A 1H2`
 ----
 
 ### Day 5: Wed, Jul 25
+#### Prestige Inn Golden
+`1049 Trans Canada Highway North, Golden, BC V0A 1H2`
 ----
 
 ### Day 6: Thu, Jul 26
+#### Lamphouse Hotel
+`610 8th St, Canmore, AB T1W2B5`
 ----
 
 ### Day 7: Fri, Jul 27
+#### Lamphouse Hotel
+`610 8th St, Canmore, AB T1W2B5`
 ----
 
 ### Day 8: Sat, Jul 28
+#### Lakeview Signature Inn - A Suite Hotel
+`2622 39th Ave NE, Calgary, AB T1Y 7J9`
 * Fill up gas
 ----
 
