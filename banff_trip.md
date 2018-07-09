@@ -152,6 +152,7 @@
 #### Jasper #3
 
 #### Glacier Skywalk & Bus trip
+glacier adventure tour 2pm
 
 #### Prestige Inn Golden
 `1049 Trans Canada Highway North, Golden, BC V0A 1H2`
@@ -171,9 +172,7 @@
 
 ### Day 6: Thu, Jul 26
 
-#### Banff G
-
-#### Lake M
+#### Banff G 12:30 upload, 1:50 download
 
 #### Lamphouse Hotel
 `610 8th St, Canmore, AB T1W2B5`
@@ -184,6 +183,8 @@
 ### Day 7: Fri, Jul 27
 
 #### Cave & Basin
+
+#### Lake M at 5pm
 
 #### Lamphouse Hotel
 `610 8th St, Canmore, AB T1W2B5`
