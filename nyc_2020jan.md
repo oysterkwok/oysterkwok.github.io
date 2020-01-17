@@ -28,7 +28,8 @@
 
 ### Afternoon: Museum @ Rockefeller Center Area
 - Walk through 47th St to 5th Ave
-- Ichiran Ramen for lunch
+- Ramen for lunch: Ichiran
+- Optional for lunch: Donburiya
 - Nitendo NYC
 - MoMA
 - SPYSCAPE
@@ -43,6 +44,7 @@
 - Yakitori Taisho
 - Cha-An Teahouse
 - Otafuku x Medetai
+- Don Wagyu
 
 ### Blue Hill 9:00pm
 - Walk through NYU
@@ -53,6 +55,8 @@
 ### Morning: Instagram Time @ Chelsea + Hudson Yards
 - Google office
 - Chelsea Market
+- Street Food in Market
+- Sinatra at Cappone's Salumeria
 - Artists & Fleas open at 10am
 - The High Line
 - Hudson Yards
