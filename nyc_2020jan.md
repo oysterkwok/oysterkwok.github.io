@@ -59,7 +59,7 @@
   - Mozz Sticks: BIG MOZZ
   - Crêperie: BAR SUZETTE
   - German: BERLIN CURRYWURST
-  - Italian Sandwich: Cappone's Salumeria | Try "Sinatra"
+  - Italian Sandwich: Cappone's Salumeria - Try "Sinatra"
   - Green Tea: CHALAIT
   - Franch Bakery: LAS DELICIAS CHELSEA
   - Franch Brunch: LE SONG
