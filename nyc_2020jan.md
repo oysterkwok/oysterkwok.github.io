@@ -56,7 +56,14 @@
 - Google office
 - Chelsea Market
 - Street Food in Market
-- Sinatra at Cappone's Salumeria
+  - Mozz Sticks: BIG MOZZ
+  - Crêperie: BAR SUZETTE
+  - German: BERLIN CURRYWURST
+  - Italian Sandwich: Cappone's Salumeria | Try "Sinatra"
+  - Green Tea: CHALAIT
+  - Franch Bakery: LAS DELICIAS CHELSEA
+  - Franch Brunch: LE SONG
+  - Japanese Inspired Mexican: TAKUMI TACO
 - Artists & Fleas open at 10am
 - The High Line
 - Hudson Yards
